@@ -19,3 +19,4 @@
 
 - 🎨 **Desain Figma:** [Klik di sini](https://www.figma.com/design/ddAGJPBI19DWuZKrjFpTko/DESAIN-IB-WOLES-CREW?t=5zS5cinyBsdVabzh-1)
 - 🧾 **Laporan Akhir:** [Klik di sini](https://docs.google.com/document/d/1B0Co_RGOK3EJVcg8PeYF3hKfNfUSWrpow7e1otT5k2A/edit?usp=sharing)
+- **User Persona**: [Klik di sini](https://docs.google.com/document/d/1mipAU3lITq8yVyn4JWJIHnGLbEtL-0kaJRHh8_o3wXQ/edit?tab=t.0)
