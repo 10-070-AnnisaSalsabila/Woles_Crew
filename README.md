@@ -33,7 +33,7 @@ Navigasinya yang intuitif membuat setiap fitur dapat digunakan tanpa perlu waktu
 
 ## 📎 Link Penting
 
-- 📄 **[Proposal Perancangan Sistem]**(https://docs.google.com/document/d/1s0WetvLABlpyBimFZOF_zAgsdjslN-ElBPuCcNl1r30/edit?usp=sharing)
-- 🎨 **[Desain Figma]** (https://www.figma.com/design/ddAGJPBI19DWuZKrjFpTko/DESAIN-IB-WOLES-CREW?t=5zS5cinyBsdVabzh-1)
-- 🧾 **[Laporan Akhir]**(https://docs.google.com/document/d/1B0Co_RGOK3EJVcg8PeYF3hKfNfUSWrpow7e1otT5k2A/edit?usp=sharing)
-- 👤 **[User Persona]** (https://docs.google.com/document/d/1mipAU3lITq8yVyn4JWJIHnGLbEtL-0kaJRHh8_o3wXQ/edit?tab=t.0)
+- 📄 **[Proposal Perancangan Sistem](https://docs.google.com/document/d/1s0WetvLABlpyBimFZOF_zAgsdjslN-ElBPuCcNl1r30/edit?usp=sharing)**
+- 🎨 **[Desain Figma](https://www.figma.com/design/ddAGJPBI19DWuZKrjFpTko/DESAIN-IB-WOLES-CREW?t=5zS5cinyBsdVabzh-1)**
+- 🧾 **[Laporan Akhir](https://docs.google.com/document/d/1B0Co_RGOK3EJVcg8PeYF3hKfNfUSWrpow7e1otT5k2A/edit?usp=sharing)**
+- 👤 **[User Persona](https://docs.google.com/document/d/1mipAU3lITq8yVyn4JWJIHnGLbEtL-0kaJRHh8_o3wXQ/edit?tab=t.0)**
