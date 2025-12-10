@@ -1,4 +1,5 @@
-🌟 Woles_Crew – TaskMate: Aplikasi Manajemen Tugas Mahasiswa
+🌟 TaskMate: Aplikasi Manajemen Tugas Mahasiswa
+
 📌 Apa itu TaskMate?
 
 TaskMate adalah aplikasi manajemen tugas yang dibuat khusus untuk membantu mahasiswa mengatur aktivitas perkuliahan secara lebih terstruktur, rapi, dan mudah diikuti.
