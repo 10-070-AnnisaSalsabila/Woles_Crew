@@ -8,6 +8,8 @@ Aplikasi ini hadir sebagai solusi untuk masalah umum mahasiswa—deadline menump
 Dengan tampilan yang sederhana namun elegan, TaskMate memudahkan mahasiswa untuk tetap produktif tanpa merasa kewalahan.
 Navigasinya yang intuitif membuat setiap fitur dapat digunakan tanpa perlu waktu lama untuk beradaptasi.
 
+---
+
 🚀 Fitur Utama TaskMate
 
 📊 Dashboard — Ringkasan progres tugas, aktivitas terbaru, dan informasi penting lainnya.
