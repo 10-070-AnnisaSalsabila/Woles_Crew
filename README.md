@@ -42,3 +42,5 @@ Navigasinya yang intuitif membuat setiap fitur dapat digunakan tanpa perlu waktu
 - 👤 **[User Persona](https://docs.google.com/document/d/1mipAU3lITq8yVyn4JWJIHnGLbEtL-0kaJRHh8_o3wXQ/edit?tab=t.0)**
 - 🪄 **[Prototype Interaktif](https://www.figma.com/proto/ddAGJPBI19DWuZKrjFpTko/INTERAKSI-DESAIN-WOLES-CREW?node-id=96-12&p=f&t=O0CI5A1zlt6IxisT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=59%3A585&show-proto-sidebar=1)**
 - 🎬 **[Video Explainer](https://youtu.be/nLIft82jsdg)**
+- 📊 **[Hasil Pengujian Maze](https://app.maze.co/report/New-maze-1/a96g4p7mizyfwsv/intro)**
+
