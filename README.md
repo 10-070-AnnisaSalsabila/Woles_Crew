@@ -45,3 +45,5 @@ Navigasinya yang intuitif membuat setiap fitur dapat digunakan tanpa perlu waktu
 - 📊 **[Hasil Pengujian Maze](https://app.maze.co/report/New-maze-1/a96g4p7mizyfwsv/intro)**
 - 📝 **[Kuesioner](https://docs.google.com/forms/d/e/1FAIpQLSexaGYUb98EdtgDRCWS4pNbanK5l6-6doGJQTGZ42mVxVKhxw/viewform?usp=header)**
 - 📊 **[Tabel Skor SUS](https://docs.google.com/spreadsheets/d/1zJjpNuLpbJAmd1zF86VZfYEkPc5lKkYWD43Yh0P11-M/edit?gid=830670517#gid=830670517)**
+- 📊 **[Borang Asistensi ke-2](https://docs.google.com/document/d/10jDqyTA7YMGXcJC3E8jcmoweBrLXUwzCGspNJ8z8tCM/edit?tab=t.0#heading=h.osbottwh8xp)**
+- 📊 **[Borang Asistensi ke-3](https://docs.google.com/document/d/1Kf6rZQVxXPyga9wzadvXAdSJmkLNwcIm_GVLHWDxYUk/edit?tab=t.0#heading=h.osbottwh8xp)**
